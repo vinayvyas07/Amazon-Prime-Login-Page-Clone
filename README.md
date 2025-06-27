@@ -1,6 +1,6 @@
 # 🎬 Prime Video Landing Page Clone
 
-A visually rich, responsive clone of the Amazon Prime Video landing page built using **HTML5** and **CSS3**. This project aims to mimic the structure, layout, and styling of the original platform's promotional homepage.
+A visually rich, responsive clone of the Amazon Prime Video landing page built using **HTML5** ,**CSS3** and **JavaScript**. This project aims to mimic the structure, layout, and styling of the original platform's promotional homepage.
 
 ---
 
